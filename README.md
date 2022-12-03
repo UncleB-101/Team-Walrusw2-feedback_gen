@@ -9,3 +9,11 @@ Are we getting them the information they need?
 is our site visually appealing?
 Are visitors returning to our site?
 Are we making visitors feel safe on our site?.
+
+## Documentation
+
+https://1drv.ms/w/s!AgfNAADGDaZ1gQBzXO6nOu-TnZDE
+
+## Database Schema and Sketch
+
+https://1drv.ms/p/s!AnfzqbVDP-PNg0ImAxqq1yVNle4M?e=9aYIjd
