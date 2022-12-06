@@ -17,3 +17,6 @@ https://1drv.ms/w/s!AgfNAADGDaZ1gQBzXO6nOu-TnZDE
 ## Database Schema and Sketch
 
 https://1drv.ms/p/s!AnfzqbVDP-PNg0ImAxqq1yVNle4M?e=9aYIjd
+
+## 🛠 Skills
+Javascript  , HTML, CSS, Python, Figma, Figjam, Python Django, PowerPoint
